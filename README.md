@@ -2,4 +2,4 @@
 
 ![preview](./preview-projeto-02.png)
 
-[Clique aqui para acessar/Click here to view](https://)
+[Clique aqui para acessar/Click here to view](https://marlanfagun.github.io/rocketseat-explorer-projeto02/)
